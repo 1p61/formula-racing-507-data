@@ -16,21 +16,20 @@
     }
   ],
   "categories": [
-    {
-      "id": "entrevista",
+    "id": "entrevista",
       "title": "Entrevistas Post Carrera",
       "items": [
         {
           "id": "entrevista-1",
           "title": "Entrevista de Colapinto",
           "category": "Entrevistas",
-          "durationLabel": "00:26",
+          "durationLabel": "09:56",
           "mediaType": "VIDEO",
           "mediaUrl": "https://mega.nz/file/hS9ElY6B#8NTQGIT8rsnt49WS5vRFhikaexmiK1EC_b27VJsl0Gc",
           "thumbnailUrl": "https://mega.nz/file/9HFjADaB#vMBePW1DHZZ07j95Ymo9oB8QRFrzBSX-u1DbafaMpFM",
           "description": "Colapinto le pide a Christine GZ que venga más a las carreras porque es su talismán."
         },
-        {
+    {
           "id": "vod-onboard-2",
           "title": "Duelo en Curva Cerrada bajo Lluvia",
           "subtitle": "Resumen Técnico · MP4",
