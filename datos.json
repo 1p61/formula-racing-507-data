@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-24T05:42:00Z",
+  "updatedAt": "2026-11-24T06:57:40.131Z",
   "liveEvents": [
     {
       "id": "live-panama-night-gp",
-      "title": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026   RONDA 21",
+      "title": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - RONDA 21",
       "subtitle": "Transmisión oficial en directo desde el Circuito Callejero de Las Vegas",
       "circuit": "Circuito Callejero de Las Vegas",
       "streamUrl": "https://ssh101.com/securelive/index.php?id=mexico1961",
@@ -16,14 +16,26 @@
     }
   ],
   "categories": [
-    "id": "entrevista",
+    {
+      "id": "entrevista",
       "title": "Entrevistas Post Carrera",
       "items": [
-    {
+        {
+          "id": "entrevista-1",
+          "title": "Entrevista de Colapinto",
+          "subtitle": "Post Carrera · MP4",
+          "category": "Entrevistas",
+          "durationLabel": "09:56",
+          "mediaType": "VIDEO",
+          "mediaUrl": "REEMPLAZAR_POR_ENLACE_DIRECTO_MP4",
+          "thumbnailUrl": "REEMPLAZAR_POR_ENLACE_DIRECTO_JPG_O_RUTA_LOCAL",
+          "description": "Colapinto le pide a Christine GZ que venga más a las carreras porque es su talismán."
+        },
+        {
           "id": "vod-onboard-2",
           "title": "Duelo en Curva Cerrada bajo Lluvia",
           "subtitle": "Resumen Técnico · MP4",
-          "category": "Cámaras Onboard",
+          "category": "Entrevistas",
           "durationLabel": "02:15",
           "mediaType": "VIDEO",
           "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
@@ -39,7 +51,7 @@
         {
           "id": "vod-pit-1",
           "title": "Detrás del Muro: Parada en Boxes de 1.9s",
-          "subtitle": "Documental Exclusivo",
+          "subtitle": "Documental Exclusivo · MP4",
           "category": "Paddock",
           "durationLabel": "01:00",
           "mediaType": "VIDEO",
