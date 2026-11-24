@@ -1,0 +1,146 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-23T21:00:00Z",
+  "liveEvents": [
+    {
+      "id": "live-panama-night-gp",
+      "title": "Gran Premio Nocturno 507 — Carrera Principal",
+      "subtitle": "Transmisión oficial en directo desde el Circuito Urbano",
+      "circuit": "Circuito Cinta Costera 507",
+      "streamUrl": "https://ssh101.com/securelive/index.php?id=mexico1961",
+      "streamType": "LIVE_EMBED",
+      "thumbnailUrl": "/src/assets/images/hero_live_night_gp_1795471763966.jpg",
+      "isLiveNow": true,
+      "viewerCount": 4280,
+      "initialChat": [
+        {
+          "id": "c1",
+          "author": "PitWall_507",
+          "text": "Bienvenidos a la transmisión nocturna. Neumáticos medios en la grilla de salida.",
+          "timestamp": "21:04",
+          "isModerator": true
+        },
+        {
+          "id": "c2",
+          "author": "CarlosM_PTY",
+          "text": "Excelente calidad de stream HLS, cero cortes en la vuelta de formación.",
+          "timestamp": "21:05",
+          "isModerator": false
+        },
+        {
+          "id": "c3",
+          "author": "Elena_Apex",
+          "text": "Se viene Safety Car si sigue lloviendo en el sector 2.",
+          "timestamp": "21:06",
+          "isModerator": false
+        }
+      ]
+    },
+    {
+      "id": "live-paddock-cam",
+      "title": "Cámara Onboard & Telemetría Pit Lane",
+      "subtitle": "Feed secundario de garaje y análisis de estrategia",
+      "circuit": "Boxes Sector Norte",
+      "streamUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+      "streamType": "LIVE_HLS",
+      "thumbnailUrl": "/src/assets/images/thumb_pitlane_garage_1795471764498.jpg",
+      "isLiveNow": true,
+      "viewerCount": 1490,
+      "initialChat": [
+        {
+          "id": "c4",
+          "author": "Ing_Telemetria",
+          "text": "Presión de frenos delanteros al límite en la curva 4.",
+          "timestamp": "21:02",
+          "isModerator": true
+        }
+      ]
+    }
+  ],
+  "categories": [
+    {
+      "id": "cat-onboard",
+      "title": "Cámaras Onboard & Telemetría",
+      "items": [
+        {
+          "id": "vod-onboard-1",
+          "title": "Vuelta Rápida de Clasificación — Sector Urbano",
+          "subtitle": "Onboard HD · Vuelta 1:18.452",
+          "category": "Cámaras Onboard",
+          "durationLabel": "09:56",
+          "mediaType": "VIDEO",
+          "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+          "thumbnailUrl": "/src/assets/images/thumb_onboard_telemetry_1795471763986.jpg",
+          "description": "Cámara subjetiva completa durante la Q3 con telemetría de marcha, DRS y temperatura de neumáticos."
+        },
+        {
+          "id": "vod-onboard-2",
+          "title": "Duelo en Curva Cerrada bajo Lluvia",
+          "subtitle": "Resumen Técnico · MP4",
+          "category": "Cámaras Onboard",
+          "durationLabel": "02:15",
+          "mediaType": "VIDEO",
+          "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+          "thumbnailUrl": "/src/assets/images/hero_live_night_gp_1795471763966.jpg",
+          "description": "Análisis cuadro a cuadro de la frenada tardía en pista húmeda sin ayudas electrónicas."
+        }
+      ]
+    },
+    {
+      "id": "cat-paddock",
+      "title": "Documentales de Paddock & Pit Lane",
+      "items": [
+        {
+          "id": "vod-pit-1",
+          "title": "Detrás del Muro: Parada en Boxes de 1.9s",
+          "subtitle": "Documental Exclusivo",
+          "category": "Paddock",
+          "durationLabel": "01:00",
+          "mediaType": "VIDEO",
+          "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerEscapes.mp4",
+          "thumbnailUrl": "/src/assets/images/thumb_pitlane_garage_1795471764498.jpg",
+          "description": "Acceso directo al garaje durante la madrugada previa a la carrera principal."
+        },
+        {
+          "id": "vod-pit-2",
+          "title": "Ingeniería del Suelo y Efecto Venturi",
+          "subtitle": "Reportaje Especial · MP4",
+          "category": "Paddock",
+          "durationLabel": "01:00",
+          "mediaType": "VIDEO",
+          "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoy.mp4",
+          "thumbnailUrl": "/src/assets/images/thumb_onboard_telemetry_1795471763986.jpg",
+          "description": "Despiece aerodinámico del monoplaza 507 antes de la inspección técnica."
+        }
+      ]
+    },
+    {
+      "id": "cat-audio",
+      "title": "Radio de Equipo & Podcasts MP3",
+      "items": [
+        {
+          "id": "aud-radio-1",
+          "title": "Episodio 48: Estrategia de Undercut y Radio Sin Filtros",
+          "subtitle": "Podcast Formula 507 · MP3",
+          "category": "Audio & Radio",
+          "durationLabel": "06:12",
+          "mediaType": "AUDIO",
+          "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+          "thumbnailUrl": "/src/assets/images/thumb_podcast_radio_1795471764976.jpg",
+          "description": "Debate nocturno sobre las comunicaciones por radio y decisiones de comisarios."
+        },
+        {
+          "id": "aud-radio-2",
+          "title": "Motores V10 vs Híbridos: Telemetría Sonora",
+          "subtitle": "Audio Especial · MP3",
+          "category": "Audio & Radio",
+          "durationLabel": "07:05",
+          "mediaType": "AUDIO",
+          "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+          "thumbnailUrl": "/src/assets/images/thumb_podcast_radio_1795471764976.jpg",
+          "description": "Grabación binaural desde el muro de pits para escuchar con auriculares."
+        }
+      ]
+    }
+  ]
+}
