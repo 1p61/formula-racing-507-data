@@ -17,11 +17,11 @@
   ],
   "categories": [
     {
-      "id": "cat-onboard",
-      "title": "Cámaras Onboard & Telemetría",
+      "id": "entrevista",
+      "title": "Entrevistas Post Carrera",
       "items": [
         {
-          "id": "vod-onboard-1",
+          "id": "entrevista-1",
           "title": "Vuelta Rápida de Clasificación — Sector Urbano",
           "subtitle": "Onboard HD · Vuelta 1:18.452",
           "category": "Cámaras Onboard",
