@@ -60,15 +60,15 @@
           "description": "¡Última hora en el mercado de pilotos de F1! Analizamos el pulso contractual de Oliver Bearman con Ferrari y Haas, la respuesta de Alpine sobre su alineación y el duro revés de Colton Herta en su camino a la parrilla. Todo esto con nuestro amigo de Ftotal."
         },
         {
-          "id": "vod-pit-2",
-          "title": "Ingeniería del Suelo y Efecto Venturi",
-          "subtitle": "Reportaje Especial · MP4",
-          "category": "Paddock",
-          "durationLabel": "01:00",
+          "id": "youtube-2",
+          "title": "Sobredosis de adelantamientos, no de emoción - GP Las Vegas F1 2026 | El vlog post-carrera",
+          "subtitle": "Reporte de la Carrera por Victor Abad",
+          "category": "noticias",
+          "durationLabel": "01:11:19",
           "mediaType": "VIDEO",
-          "mediaUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerJoy.mp4",
-          "thumbnailUrl": "/assets/images/thumb_onboard_telemetry_1795471763986.jpg",
-          "description": "Despiece aerodinámico del monoplaza 507 antes de la inspección técnica."
+          "mediaUrl": "https://youtu.be/ye2Pk-Gh8ns?si=7WrYE70KiSuHbg2x",
+          "thumbnailUrl": "https://user60148.na.imgto.link/public/20261124/b49107aa54a74d2b52f66b0a-thumbnail-ye2pk-gh8ns-1280x720-1.avif",
+          "description": "Análisis post-carrera del GP de Las Vegas de F1 2026: una carrera caótica y llena de adelantamientos que entretiene, pero pierde emoción por la previsibilidad del reglamento. Repasamos el triunfo de Max Verstappen, los fallos de Mercedes y la tensión interna en Ferrari.."
         }
       ]
     },
