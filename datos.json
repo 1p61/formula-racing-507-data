@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-24T16:50:25.861Z",
+  "updatedAt": "2026-11-25T15:30:00.000Z",
   "paypalUrl": "https://www.paypal.com/donate/?hosted_button_id=DFC3X64AJPSB8",
   "liveEvents": [
     {
@@ -14,6 +14,18 @@
       "isLiveNow": true,
       "viewerCount": 0,
       "initialChat": []
+    }
+  ],
+  "articles": [
+    {
+      "id": "noticia-1",
+      "title": "Título de tu noticia aquí",
+      "subtitle": "Subtítulo o fuente de la noticia",
+      "tag": "NOTICIA",
+      "thumbnailUrl": "https://TU-ENLACE-DE-IMAGEN.jpg",
+      "articleUrl": "https://TU-ENLACE-AL-ARTICULO.com",
+      "summary": "Resumen corto que aparece en la tarjeta del carrusel.",
+      "content": ""
     }
   ],
   "categories": [
