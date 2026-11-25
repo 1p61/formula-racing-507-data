@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-25T15:30:00.000Z",
+  "updatedAt": "2026-11-25T15:50:00.000Z",
   "paypalUrl": "https://www.paypal.com/donate/?hosted_button_id=DFC3X64AJPSB8",
   "liveEvents": [
     {
@@ -19,12 +19,12 @@
   "articles": [
     {
       "id": "noticia-1",
-      "title": "Alpine recibe una multa y Williams una sanción deportiva por infracciones al límite de gastos de la F1 2025",
-      "subtitle": "Williams y Alpine fueron encontrados con infracciones en las reglas financieras de la F1 en 2025, pero alcanzaron un acuerdo de aceptación con la FIA",
+      "title": "Título de tu noticia aquí",
+      "subtitle": "Subtítulo o fuente de la noticia",
       "tag": "NOTICIA",
-      "thumbnailUrl": "https://user60148.na.imgto.link/public/20261125/b5696ae8a636bdfd3185b4dc-pierre-gasly-alpine.avif",
-      "articleUrl": "https://lat.motorsport.com/f1/news/fia-confirma-una-infraccion-financiera-de-alpine-y-un-exceso-de-gasto-de-williams-en-2025/10877738/",
-      "summary": "Los equipos Williams y Alpine de F1 incumplieron el reglamento del límite presupuestario de la Fórmula 1 correspondiente a 2025 y alcanzaron un acuerdo de aceptación de infracción con la FIA. Williams recibió una sanción deportiva por exceder el límite de gasto, mientras que a Alpine se le impuso una multa.",
+      "thumbnailUrl": "https://TU-ENLACE-DE-IMAGEN.jpg",
+      "articleUrl": "https://TU-ENLACE-AL-ARTICULO.com",
+      "summary": "Resumen corto que aparece en la tarjeta del carrusel.",
       "content": ""
     }
   ],
@@ -93,34 +93,6 @@
           "mediaUrl": "https://youtu.be/ye2Pk-Gh8ns?si=7WrYE70KiSuHbg2x",
           "thumbnailUrl": "https://user60148.na.imgto.link/public/20261124/b49107aa54a74d2b52f66b0a-thumbnail-ye2pk-gh8ns-1280x720-1.avif",
           "description": "Análisis post-carrera del GP de Las Vegas de F1 2026: una carrera caótica y llena de adelantamientos que entretiene, pero pierde emoción por la previsibilidad del reglamento. Repasamos el triunfo de Max Verstappen, los fallos de Mercedes y la tensión interna en Ferrari.."
-        }
-      ]
-    },
-    {
-      "id": "cat-audio",
-      "title": "Radio de Equipo & Podcasts MP3",
-      "items": [
-        {
-          "id": "aud-radio-1",
-          "title": "Episodio 48: Estrategia de Undercut y Radio Sin Filtros",
-          "subtitle": "Podcast Formula 507 · MP3",
-          "category": "Audio & Radio",
-          "durationLabel": "06:12",
-          "mediaType": "AUDIO",
-          "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
-          "thumbnailUrl": "/assets/images/thumb_podcast_radio_1795471764976.jpg",
-          "description": "Debate nocturno sobre las comunicaciones por radio y decisiones de comisarios."
-        },
-        {
-          "id": "aud-radio-2",
-          "title": "Motores V10 vs Híbridos: Telemetría Sonora",
-          "subtitle": "Audio Especial · MP3",
-          "category": "Audio & Radio",
-          "durationLabel": "07:05",
-          "mediaType": "AUDIO",
-          "mediaUrl": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
-          "thumbnailUrl": "/assets/images/thumb_podcast_radio_1795471764976.jpg",
-          "description": "Grabación binaural desde el muro de pits para escuchar con auriculares."
         }
       ]
     }
