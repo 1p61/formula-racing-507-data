@@ -19,12 +19,12 @@
   "articles": [
     {
       "id": "noticia-1",
-      "title": "Título de tu noticia aquí",
-      "subtitle": "Subtítulo o fuente de la noticia",
+      "title": "Alpine recibe una multa y Williams una sanción deportiva por infracciones al límite de gastos de la F1 2025",
+      "subtitle": "Williams y Alpine fueron encontrados con infracciones en las reglas financieras de la F1 en 2025, pero alcanzaron un acuerdo de aceptación con la FIA",
       "tag": "NOTICIA",
-      "thumbnailUrl": "https://TU-ENLACE-DE-IMAGEN.jpg",
-      "articleUrl": "https://TU-ENLACE-AL-ARTICULO.com",
-      "summary": "Resumen corto que aparece en la tarjeta del carrusel.",
+      "thumbnailUrl": "https://user60148.na.imgto.link/public/20261125/b5696ae8a636bdfd3185b4dc-pierre-gasly-alpine.avif",
+      "articleUrl": "https://lat.motorsport.com/f1/news/fia-confirma-una-infraccion-financiera-de-alpine-y-un-exceso-de-gasto-de-williams-en-2025/10877738/",
+      "summary": "Los equipos Williams y Alpine de F1 incumplieron el reglamento del límite presupuestario de la Fórmula 1 correspondiente a 2025 y alcanzaron un acuerdo de aceptación de infracción con la FIA. Williams recibió una sanción deportiva por exceder el límite de gasto, mientras que a Alpine se le impuso una multa.",
       "content": ""
     }
   ],
