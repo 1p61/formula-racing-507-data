@@ -5,12 +5,12 @@
   "liveEvents": [
     {
       "id": "live-gp",
-      "title": "FORMULA 1 HEINEKEN LAS VEGAS GRAND PRIX 2026 - RONDA 21",
-      "subtitle": "Transmisión oficial en directo desde el Circuito Callejero de Las Vegas",
-      "circuit": "Circuito Callejero de Las Vegas",
+      "title": "FORMULA 1 QATAR AIRWAYS QATAR GRAND PRIX 2026 - RONDA 22",
+      "subtitle": "Transmisión oficial en directo desde Losail",
+      "circuit": "Circuito Internacional de Losail",
       "streamUrl": "https://ssh101.com/securelive/index.php?id=mexico1961",
       "streamType": "LIVE_EMBED",
-      "thumbnailUrl": "https://user60327.na.imgto.link/public/20261124/9fee9e80727a2afad9e109b9-gran-premio-de-las-vegas-2026-1.avif",
+      "thumbnailUrl": "https://user60148.na.imgto.link/public/20261127/71135e44eb3bcbe4a35c7a9b-gran-premio-de-catar-2026-bajo-las-luces.avif",
       "isLiveNow": true,
       "viewerCount": 0,
       "initialChat": []
